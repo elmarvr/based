@@ -1,0 +1,20 @@
+{
+	"name": "@based/quark",
+	"version": "0.0.0",
+	"description": "> TODO: description",
+	"author": "elmarvr <elmarvriet@gmail.com>",
+	"homepage": "",
+	"license": "ISC",
+	"main": "lib/index",
+	"types": "lib/index.d.ts",
+	"directories": {
+		"lib": "lib"
+	},
+	"files": [
+		"lib"
+	],
+	"scripts": {
+		"build": "tsc",
+		"watch": "tsc --watch"
+	}
+}

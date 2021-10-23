@@ -1,0 +1,22 @@
+{
+	"name": "@based/checkbox",
+	"version": "0.0.0",
+	"description": "> TODO: description",
+	"author": "elmarvr <elmarvriet@gmail.com>",
+	"homepage": "",
+	"license": "ISC",
+	"main": "lib/index.js",
+	"directories": {
+		"lib": "lib",
+		"test": "__tests__"
+	},
+	"files": [
+		"lib"
+	],
+	"scripts": {
+		"test": "echo \"Error: run tests from root\" && exit 1"
+	},
+	"dependencies": {
+		"@elmarvr/quark": "^0.0.0"
+	}
+}
